@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/google/bonito
+LOCAL_PATH := device/motorola/astro
 
 
 TARGET_USERIMAGES_USE_F2FS := true
